@@ -21,7 +21,7 @@ moves you into a new existing branch
 creates new branch and places you in it
 ### git status 
 shows if you have any changes in current branch
-##Careful
+## Careful
 ### git merge <branch name>
 merges the specified branch into current branch user is in. This may inflict merge conflicts that 
 will need to be resolved before push. 
