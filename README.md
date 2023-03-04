@@ -1,4 +1,5 @@
 # first-testbed
+## Brandon & Nate
 
 ## useful commands in git bash
 ### git clone <repo link>
@@ -26,3 +27,4 @@ shows if you have any changes in current branch
 merges the specified branch into current branch user is in. This may inflict merge conflicts that 
 will need to be resolved before push. 
 Later, opening pull requests will be used to verify changes
+
