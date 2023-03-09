@@ -40,7 +40,7 @@ public class main {
         //but we can also use strings and for now, we will just show this as an output
         String word_string = "This is a string of characters\n";
         System.out.println(word_string);
-
+        //This is a comment
 
     }
 }
